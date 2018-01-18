@@ -1,5 +1,5 @@
 {
-    "name": "weaverryan/derp-dangerzone",
+    "name": "supdev/derp-dangerzone",
     "autoload": {
         "psr-0" : {
             "Weaverryan\\DangerZone" : "src"
